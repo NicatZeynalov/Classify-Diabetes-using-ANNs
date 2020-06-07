@@ -1,2 +1,1 @@
-# Classify-Diabetes-using-ANNs
-Classifying Diabetes using Artificial Neural Networks
+# Classifying Diabetes using Artificial Neural Networks
